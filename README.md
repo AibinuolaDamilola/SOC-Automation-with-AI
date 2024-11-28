@@ -11,6 +11,10 @@ Enhance understanding of cloud security automation.
 Apply AI to improve threat detection and response in a cloud environment.
 Develop practical experience with cloud-native security tools.
 
+## Visual Work Flow
+
+![image](https://github.com/user-attachments/assets/d2bb3d1e-2536-4cb7-998f-f53798d39feb)
+
 ## Skills Learned
 
 
